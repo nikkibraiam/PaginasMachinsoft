@@ -1,0 +1,27 @@
+.elementor-228 .elementor-element.elementor-element-144c666{margin-top:10px;margin-bottom:0px;padding:0px 0px 0px 0px;z-index:9;}.elementor-bc-flex-widget .elementor-228 .elementor-element.elementor-element-451b290.elementor-column .elementor-column-wrap{align-items:center;}.elementor-228 .elementor-element.elementor-element-451b290.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-228 .elementor-element.elementor-element-451b290 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-228 .elementor-element.elementor-element-451b290:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-228 .elementor-element.elementor-element-451b290 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:rgba(255, 255, 255, 0.8);}.elementor-228 .elementor-element.elementor-element-451b290 > .elementor-element-populated, .elementor-228 .elementor-element.elementor-element-451b290 > .elementor-element-populated > .elementor-background-overlay, .elementor-228 .elementor-element.elementor-element-451b290 > .elementor-background-slideshow{border-radius:41px 41px 41px 41px;}.elementor-228 .elementor-element.elementor-element-451b290 > .elementor-element-populated{box-shadow:0px 1px 15px 0px rgba(0, 0, 0, 0.08);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:5px 5px 5px 5px;}.elementor-228 .elementor-element.elementor-element-451b290 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-228 .elementor-element.elementor-element-af5edb5{text-align:left;width:auto;max-width:auto;flex-grow:1;}.elementor-228 .elementor-element.elementor-element-af5edb5 .aux-has-logo img{width:200px;}.elementor-228 .elementor-element.elementor-element-e7609d4{display:block;text-align:right;width:auto;max-width:auto;align-self:center;flex-grow:1;}.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:right;}.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-menu-depth-0 > .aux-item-content{font-family:"Roboto", Sans-serif;font-size:18px;font-weight:500;text-transform:capitalize;text-shadow:0px 0px 10px rgba(0,0,0,0.3);}.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-fs-menu .aux-master-menu{text-align:right;}@media(max-width:1024px){.elementor-228 .elementor-element.elementor-element-451b290 > .elementor-element-populated{padding:18px 30px 16px 30px;}.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-menu-depth-0 > .aux-item-content{font-size:24px;padding:0px 0px 40px 0px;}.elementor-228 .elementor-element.elementor-element-e7609d4 > .elementor-widget-container{margin:0px 30px 0px 0px;}.elementor-228 .elementor-element.elementor-element-e7609d4{flex-grow:0;}}@media(max-width:767px){.elementor-228 .elementor-element.elementor-element-af5edb5{flex-grow:0.8;}.elementor-228 .elementor-element.elementor-element-e7609d4 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-e7609d4 */.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-item-content::after{
+    content:'';
+    width: 0px;
+    height: 6px;
+    background-color: #00E5FF;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+    bottom: -80%;
+    left: 30%;
+    transition: 300ms;
+}
+.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-menu-depth-0:hover .aux-item-content::after{
+        width: 24px;
+}
+.elementor-228 .elementor-element.elementor-element-e7609d4 .aux-item-content{
+    padding: 0;
+}
+.elementor-228 .elementor-element.elementor-element-e7609d4 li{
+    margin-right: 30px;
+}
+/*-----Responsive-----*/
+@media screen and (max-width:1024px){
+    .elementor-228 .elementor-element.elementor-element-e7609d4 .aux-item-content::after{
+        display:none;
+    }
+}/* End custom CSS */
