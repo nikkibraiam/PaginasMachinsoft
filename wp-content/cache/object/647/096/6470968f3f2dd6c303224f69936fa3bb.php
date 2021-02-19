@@ -1,0 +1,17 @@
+;[/`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"302";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-01-18 05:11:27";s:13:"post_date_gmt";s:19:"2021-01-18 05:11:27";s:12:"post_content";s:2593:"Application development and maintenance services in the U.S. are evolving to meet changing demands from enterprises that need dynamic applications with rich user interfaces, according to a report published by Information Services Group.
+
+The report for the U.S. finds the growing ranks of companies&nbsp;undergoing digital transformation&nbsp;want to modernize their software portfolios and continuously update their applications.
+<h3>Meeting requirements through next-generation ADM services</h3>
+Service providers are meeting these requirements through next-generation ADM services, which are incorporating greater use of APIs, microservices, containers, low-code/no-code platforms and cloud-native approaches.
+
+In the U.S., service providers are focusing on specific industries as they introduce digital transformation services and&nbsp;DevOps methodologies, the report says. At the same time, these providers are adopting Agile development methodologies to better scale up and meet growing enterprise demand.
+
+“Enterprises that see the digital future are moving away from legacy approaches to software development and maintenance,” said&nbsp;Jan Erik Aase, partner and global leader,&nbsp;ISG&nbsp;Provider Lens Research. “Rapidly changing customer demands require more agility as well as greater efficiency, and service providers are stepping up with powerful new capabilities.”
+
+Faced with the&nbsp;COVID-19&nbsp;crisis, ADM service providers quickly regrouped with measures to ensure business continuity, security and efficiency, the report says. By increasing their use of collaboration tools, they achieved the scale and productivity they needed, and in some cases stepped up to remotely serve clients in supply chain and logistics.
+<h3>Increasing use of analytics, AI and ML</h3>
+Continuous application testing methods also advanced in 2020 with increasing use of analytics, artificial intelligence and machine learning. The large and growing volume of available test data makes visibility and insights more important, a trend that is also increasing demand for better visualization tools.
+
+With the many testing tools on offer, flexibility and integration with ADM services is critical, and service providers are forming new partnerships with continuous testing specialists.
+
+In DevOps implementations, which have been widely adopted to speed up application development and improve enterprise agility, security is now taking center stage, according to the report. Most service providers have integrated this element into the DevOps lifecycle, embracing a DevSecOps approach.";s:10:"post_title";s:66:"Enterprises move on from legacy approaches to software development";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:73:"build-your-programming-skills-with-these-e-courses-from-python-to-swiftui";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2021-02-19 05:49:11";s:17:"post_modified_gmt";s:19:"2021-02-19 05:49:11";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:33:"https://www.machinsoft.com/?p=302";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
