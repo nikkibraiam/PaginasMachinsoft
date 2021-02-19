@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DESIGN &#8211; Machinsoft</title>
+	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Software de Calidad</description>
+	<lastBuildDate>Fri, 19 Feb 2021 05:50:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>.NET Core Ranks High Among Frameworks in New Dev Survey</title>
+		<link>/net-core-ranks-high-among-frameworks-in-new-dev-survey/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 04:59:57 +0000</pubDate>
+				<category><![CDATA[DESIGN]]></category>
+		<guid isPermaLink="false">/?p=295</guid>
+
+					<description><![CDATA[.NET Core placed high in a web-dominated ranking of development frameworks published by CodinGame, which provides a tech hiring platform. The survey asked about frameworks in terms of popularity (frameworks that are known) and those that are in demand by employers. Microsoft&#8217;s .NET Core ranked third in the known category, behind Node.js and React. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="295" class="elementor elementor-295" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-d8038ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d8038ce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d6dedac" data-id="d6dedac" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1d8a982 elementor-widget elementor-widget-text-editor" data-id="1d8a982" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>.NET Core placed high in a web-dominated ranking of development frameworks published by CodinGame, which provides a tech hiring platform.</p><p>The survey asked about frameworks in terms of popularity (frameworks that are known) and those that are in demand by employers. Microsoft&#8217;s .NET Core ranked third in the known category, behind Node.js and React. The list shows strong placements by JavaScript/web technologies, including Vue.js, Angular variants, Django and more.</p><p>&#8220;Node.js, React and .NET Core are currently the most popular frameworks amongst developers,&#8221; CodinGame said. &#8220;React is the most sought-after framework: 59 percent of tech recruiters are on the lookout for developers who know React. Unfortunately, only 27.6 percent of programmers say that they know how to use the open-source JavaScript library.</p><p>&#8220;Another framework that makes recruiters&#8217; top three is Angular2+. Indeed, 41 percent of recruiters are on the lookout for Angular2+ specialists. Alas, only 16.9 percent of developers say that they know the application framework.&#8221;</p><p>The survey polled nearly 15,000 developers and HR pros from around the world and was conducted at the end of 2020 (from October to December 2020). Of course, right in the middle of that time, .NET Core became <a href="https://visualstudiomagazine.com/articles/2020/11/10/net-5-ga.aspx" target="_blank" rel="noopener">.NET 5</a>. Nevertheless, it speaks to how much traction the .NET ecosystem has gained even before the general availability of .NET 5, especially considering the large influence of JavaScript/web tech in the survey.</p><p>Though the survey was light on .NET tech, Microsoft&#8217;s C# programming language did rank fourth in the list of &#8220;in-demand languages&#8221; and was No. 6 in the &#8220;known&#8221; category.</p><div><p>JavaScript, Java and Python are (consistently) the most well-known programming languages out there. More than half of developers know how to code in these 3 languages,&#8221; CodinGame said. &#8220;Companies are in sync with developers when it comes to major programming languages JavaScript and Java: close to 60 percent have high demand for these languages.</p><p>&#8220;However, when it comes to other languages such as Python, C or C++, there&#8217;s a spanner [wrench] in the works. For example: 45.1 percent of developers code in C, but only 15.4 percent of companies need C development.&#8221;</p><p>As might be inferred from the use of the word &#8220;spanner,&#8221; CodinGame is headquartered in Europe (France), with a presence in the U.S. And, as might be expected from a hiring platform specialist, the survey was heavy on recruitment questions. Here are some highlights of the survey:</p><ul><li>When developers were asked what position they held, the largest percentage of respondents reported full-stack (24 percent), followed by software developer (20 percent) and back-end, (15 percent).</li><li>80 percent of HR professionals recruit developers with non-academic backgrounds.</li><li>48 percent of companies offer developers the possibility to work 100 percent remotely.</li><li>DevOps are the most in-demand developers for 2021.</li><li>Candidate experience is what the majority of tech professionals will focus on in 2021.</li><li>The majority of companies (64 percent) are looking to hire up to 50 developers this year.</li><li>When HR pros were asked which which positions they have demand for, but predict they&#8217;ll struggle to recruit in 2021, the top three were DevOps, back-end developers and full-stack developers.</li><li>The best-paid developers work in the Security industry ($55,598), followed by Technology, Insurance and Energy.</li><li>Software architects are (for the second year in a row) the world&#8217;s best-paid developers, followed by Data scientists. Both of these high-flying positions boast average annual wages of above $55,000.</li><li>Related to the question directly above, wages for other positions, such as Front-end developer or Tester, are considerably lower. Indeed, Front-end developers across the world are paid $34,946 on average.</li><li>When asked if they preferred to work remotely or at the office, only 5 percent of coders said that they&#8217;d choose to work 100 percent at the office.</li><li>The vast majority of developers would prefer some sort of office/remote organization. The winning set up is &#8220;a few remote days per week&#8221; (43.2 percent).</li><li>The majority of programmers (58.8 percent) learn to code either at university or at school. However, close to 35 percent consider themselves to be self-taught.</li><li>Developers are still looking for the same things in job opportunities: technical challenges, flexible working hours and a competitive salary.</li><li>HR pros said their biggest challenges are finding qualified candidates, standing out from other companies to attract talent, aligning with hiring managers&#8217; demands/job requirements, and recruiting within tight time-frames.</li><li>Both developers and HR pros preferred face-to-face, traditional interviews, although HR pros were much more likely to prefer videoconferencing interviews than developers were.</li></ul><p>&#8220;In 2020, there&#8217;s been some major market shifts, with the generalization of remote work and the rise of non-academic developer profiles, for example. However, some things remain the same: programmers are still on the lookout for technical challenges and flexible working hours, LinkedIn is still a hotbed of tech hiring and recruiters still struggle to find qualified candidates,&#8221; the company said in conclusion.</p></div></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

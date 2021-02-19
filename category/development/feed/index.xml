@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development &#8211; Machinsoft</title>
+	<atom:link href="/category/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Software de Calidad</description>
+	<lastBuildDate>Fri, 19 Feb 2021 05:49:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Enterprises move on from legacy approaches to software development</title>
+		<link>/build-your-programming-skills-with-these-e-courses-from-python-to-swiftui/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 05:11:27 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">/?p=302</guid>
+
+					<description><![CDATA[Application development and maintenance services in the U.S. are evolving to meet changing demands from enterprises that need dynamic applications with rich user interfaces, according to a report published by Information Services Group. The report for the U.S. finds the growing ranks of companies&#160;undergoing digital transformation&#160;want to modernize their software portfolios and continuously update their [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="302" class="elementor elementor-302" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-09d031f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09d031f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57efc32" data-id="57efc32" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2f1112e elementor-widget elementor-widget-text-editor" data-id="2f1112e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Application development and maintenance services in the U.S. are evolving to meet changing demands from enterprises that need dynamic applications with rich user interfaces, according to a report published by Information Services Group.</p><p>The report for the U.S. finds the growing ranks of companies undergoing digital transformation want to modernize their software portfolios and continuously update their applications.</p><h3>Meeting requirements through next-generation ADM services</h3><p>Service providers are meeting these requirements through next-generation ADM services, which are incorporating greater use of APIs, microservices, containers, low-code/no-code platforms and cloud-native approaches.</p><p>In the U.S., service providers are focusing on specific industries as they introduce digital transformation services and DevOps methodologies, the report says. At the same time, these providers are adopting Agile development methodologies to better scale up and meet growing enterprise demand.</p><p>“Enterprises that see the digital future are moving away from legacy approaches to software development and maintenance,” said Jan Erik Aase, partner and global leader, ISG Provider Lens Research. “Rapidly changing customer demands require more agility as well as greater efficiency, and service providers are stepping up with powerful new capabilities.”</p><p>Faced with the COVID-19 crisis, ADM service providers quickly regrouped with measures to ensure business continuity, security and efficiency, the report says. By increasing their use of collaboration tools, they achieved the scale and productivity they needed, and in some cases stepped up to remotely serve clients in supply chain and logistics.</p><h3>Increasing use of analytics, AI and ML</h3><p>Continuous application testing methods also advanced in 2020 with increasing use of analytics, artificial intelligence and machine learning. The large and growing volume of available test data makes visibility and insights more important, a trend that is also increasing demand for better visualization tools.</p><p>With the many testing tools on offer, flexibility and integration with ADM services is critical, and service providers are forming new partnerships with continuous testing specialists.</p><p>In DevOps implementations, which have been widely adopted to speed up application development and improve enterprise agility, security is now taking center stage, according to the report. Most service providers have integrated this element into the DevOps lifecycle, embracing a DevSecOps approach.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
